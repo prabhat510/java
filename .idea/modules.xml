@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CAS/CAS.iml" filepath="$PROJECT_DIR$/CAS/CAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic Classes/Generic Classes.iml" filepath="$PROJECT_DIR$/Generic Classes/Generic Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLock/ReadWriteLock.iml" filepath="$PROJECT_DIR$/ReadWriteLock/ReadWriteLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentratLock/ReentratLock.iml" filepath="$PROJECT_DIR$/ReentratLock/ReentratLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonClass/SingletonClass.iml" filepath="$PROJECT_DIR$/SingletonClass/SingletonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java udemy.iml" filepath="$PROJECT_DIR$/.idea/java udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producerconsumerproblem/producerconsumerproblem.iml" filepath="$PROJECT_DIR$/producerconsumerproblem/producerconsumerproblem.iml" />
+    </modules>
+  </component>
+</project>
